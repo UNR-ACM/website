@@ -1,0 +1,75 @@
+body {
+  /* Old browsers */
+  background: #ffffff;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: #ffffff;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #003366;
+  font-size: 2em;
+  padding-top: 35px;
+  width: 100%;
+  text-align: center;
+}
+
+p {
+  color: #003366;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p,.iframe
+{
+	color: #1287A8;
+    line-height: 1.3em;
+    text-align: center;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #003366;
+    overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	font-family: Helvetica;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #999999;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #807f84;
+    color: white;
+}
+
+.links
+{
+	float: right;
+}
