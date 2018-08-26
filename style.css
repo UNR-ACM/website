@@ -14,22 +14,26 @@ h1 {
   padding-top: 35px;
   width: 100%;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
 
 }
 
 h2 {
-	color:
+	color: #003366;
+	font-size: 20px;
+	text-align: left;
+	width: 100%;
+	font-family: 'Roboto Mono', monospace;
 }
 
 p {
   color: #003366;
   line-height: 1.3em;
   text-align: center;
-  width: 100%;
-  font-family: 'Roboto', sans-serif;
+  width: 50%;
+  font-family: 'Roboto Mono', monospace;
   font-size: 18px;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 p,.iframe
@@ -38,12 +42,12 @@ p,.iframe
     line-height: 1.3em;
     text-align: center;
     width: 100%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     font-size: 18px;
     font-weight: bold;
 }
 
-/* Add a black background color to the top navigation */
+/* Add a UNR blue background color to the top navigation */
 .topnav {
     background-color: #003366;
     overflow: hidden;
@@ -60,7 +64,7 @@ p,.iframe
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 }
 
 /* Change the color of links on hover */
