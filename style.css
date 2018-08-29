@@ -83,3 +83,8 @@ p,.iframe
 {
 	float: right;
 }
+a {
+	text-decoration: none;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 14px;
+}
